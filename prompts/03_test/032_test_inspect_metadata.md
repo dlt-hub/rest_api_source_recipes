@@ -214,9 +214,9 @@ Most developers use `_dlt_loads` (to check if loads succeeded) and `_dlt_pipelin
 
 ### Step 6: CRITICAL - Launch Interactive Dashboard
 
-**IMPORTANT:** The dlt interactive dashboard is the BEST way to understand your pipeline metadata. It provides visual, interactive exploration that makes learning much easier than CLI output.
+**CRITICAL:** The dlt interactive dashboard is the BEST way to understand your pipeline metadata. It provides visual, interactive exploration that makes learning much easier than CLI output.
 
-Explain: "dlt has a built-in web dashboard powered by Streamlit. This dashboard gives you a visual, interactive way to explore:"
+Explain: "dlt has a built-in web dashboard powered by Marimo. This dashboard gives you a visual, interactive way to explore:"
 - Schema with searchable tables and columns
 - Load history with drill-down details
 - Pipeline state visualization
