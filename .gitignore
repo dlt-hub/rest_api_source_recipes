@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# DuckDB databases
+.dlt/*.db
+.dlt/*.duckdb
+
+# dlt state and secrets
+.dlt/secrets.toml
+.dlt/state/
+.dlt/pipelines/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
